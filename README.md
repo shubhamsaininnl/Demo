@@ -22,4 +22,6 @@ Finally run server using
 
 python manage.py runserver
 
-I have used postman to hit the api's.
+I have used postman to hit the api's
+
+Test Coverage is 93%
